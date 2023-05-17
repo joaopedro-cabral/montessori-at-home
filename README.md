@@ -5,5 +5,4 @@ Landing page developed for a homeschooling montessori project, which I used as a
 In general terms, this project was about:
   - HTML;
   - CSS;
-  - JavaScript;
-  - External API (Google Sheets and Email sender)
+  - JavaScript (Google Sheets form filler and Smtp.JS Email sender)
